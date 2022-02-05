@@ -10,6 +10,5 @@ for x in l:
         print(x, end="")
     elif(not (x.isalnum())):
         print(x, end="")
-    # elif set(x).difference(ascii_letters + digits):
-        # print(x, end=" ")
-# HackerRank.com presents "Pythonist 2"
+# input: HackerRank.com presents "Pythonist 2"
+# output:hACKERrANK.COM PRESENTS "pYTHONIST 2"
